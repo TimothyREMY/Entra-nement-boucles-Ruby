@@ -12,6 +12,7 @@ while input != "Bonjour"
     puts "Il s'est fait niquer sa mère"
     puts " "
     puts "Est-ce qu'il va dire bonjour ?"
+    fEFFFEZQFEAZFEZA
     input = gets.chomp
 end
 
